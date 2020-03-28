@@ -2,7 +2,7 @@
 
 # Hexo
 
-TEST
+test
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org).
 
